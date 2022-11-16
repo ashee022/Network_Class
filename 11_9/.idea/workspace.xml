@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c6f430a-e4d3-4f61-b744-9849abe5f2a5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../11_2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_119_1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_119_1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_119_1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_119_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_119_1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_119_1/_119_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_119_1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/_119_1" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HIUnmkf8X4jxp9uaKxWoXGdjyJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/jh_jo/Network_Class/11_9"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c6f430a-e4d3-4f61-b744-9849abe5f2a5" name="Changes" comment="" />
+      <created>1667972260421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667972260421</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
